@@ -1,0 +1,10 @@
+let a = 5
+let b = 2
+console.log("A= ",a)
+console.log("B= ",b)
+console.log("A+B= ",a+b)
+console.log("A-B= ",a-b)
+console.log("A/B= ",a/b)
+console.log("A*B= ",a*b)
+console.log("A%B= ",a%b)
+console.log("A**B= ",a**b)
