@@ -1,0 +1,22 @@
+{
+  "name": "playwright-tranning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Operaters.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhishekMule13/Playwright-Tranning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbhishekMule13/Playwright-Tranning/issues"
+  },
+  "homepage": "https://github.com/AbhishekMule13/Playwright-Tranning#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.3.0"
+  }
+}
